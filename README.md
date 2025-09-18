@@ -15,18 +15,6 @@ Perfect for **students, system programmers, and OS enthusiasts** 🚀
 
 ---
 
-## 📖 Table of Contents
-- [✨ Features](#-features)
-- [🛠️ Supported Commands](#️-supported-commands)
-- [⚙️ Installation & Run](#️-installation--run)
-- [📌 Usage Examples](#-usage-examples)
-- [📂 Project Structure](#-project-structure)
-- [🔧 Error Codes](#-error-codes)
-- [🤝 Contribution](#-contribution)
-- [📜 License](#-license)
-
----
-
 ## ✨ Features
 - 📝 Create & delete files in a simulated VFS  
 - 📂 Open/Close files with **file descriptors**  
